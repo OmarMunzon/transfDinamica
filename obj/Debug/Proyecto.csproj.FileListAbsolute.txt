@@ -1,0 +1,18 @@
+C:\Users\Omar\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Omar\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Omar\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Omar\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Omar\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Omar\Desktop\Proyecto\Proyecto\bin\Debug\OpenTK.dll
+C:\Users\Omar\Desktop\Proyecto\Proyecto\bin\Debug\OpenTK.pdb
+C:\Users\Omar\Desktop\Proyecto\Proyecto\bin\Debug\OpenTK.xml
+C:\Users\Omar\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\bin\Debug\OpenTK.dll
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\bin\Debug\OpenTK.pdb
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\bin\Debug\OpenTK.xml
+C:\Users\Omar\Desktop\mañana PG\Proyecto - copia\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
